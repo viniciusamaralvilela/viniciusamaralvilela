@@ -1,44 +1,46 @@
-# 👋 Olá, eu sou [Vinícius]
+[Portuguese](README.md)
+# 👋 Hello, I am [Vinícius]
 
-🎓 Estudante apaixonado por **Software e Computação**, ainda iniciante mas cada vez mais cativado pela área.
-
----
-
-## 👤 Sobre Mim
-
-- 🧒 **Nome:** Vinícius Amaral Vilela
-- 🎂 **Idade:** 18
-- 🏫 **Escola:** escola Técina em Eletrônica "Franscisco Moreira da Costa"
-- 🌍 **País:** Brasil
+🎓 A student passionate about **Software and Computing**, still a beginner but increasingly captivated by the field.
 
 ---
 
-## 📁 Repositórios de Tarefas
+## 👤 About Me
 
-Aqui estão alguns dos meus repositórios relacionados às atividades escolares:
-
-1. [📘 Linguagem de Programação](https://github.com/viniciusamaralvilela/LPR2025)
-2. [📗 Sistemas Embarcados](https://github.com/viniciusamaralvilela/SEB2025)
-3. [📙 Desenvolvimento de aplicativo](https://github.com/viniciusamaralvilela/DPL_2025)
+- 🧒 **Name:** Vinícius Amaral Vilela
+- 🎂 **Age:** 18
+- 🏫 **School:** Technical School in Electronics "Franscisco Moreira da Costa"
+- 🌍 **Country:** Brazil
 
 ---
-## 📁 Repositórios de Tarefas Extracurriculares
 
+## 📁 Task Repositories
+
+Here are some of my repositories related to school activities:
+
+1. [📘 Programming Language](https://github.com/viniciusamaralvilela/LPR2025)
+2. [📗 Embedded Systems](https://github.com/viniciusamaralvilela/SEB2025)
+3. [📙 Application Development](https://github.com/viniciusamaralvilela/DPL_2025)
+
+---
+
+## 📁 Extracurricular Task Repositories
 
 1. [📘 Python](https://github.com/viniciusamaralvilela/CursoPython)
 
 ---
 
-## 💡 Projetes
+## 💡 Projects
 
-- 🔗 [O que é?](https://www.etefmc.com.br/projete-a-feira)
+- 🔗 [What is it?](https://www.etefmc.com.br/projete-a-feira)
 
-> Confira alguns projetos que venho desenvolvendo com muito esforço e aprendizado:
+> Check out some projects I have been developing with lots of effort and learning:
 
 🔗 [Projete2k24](https://github.com/viniciusamaralvilela/Projete2K24)
 
 ---
-## 💡 Linguagens que tenho experiência
+
+## 💡 Languages I Have Experience With
 
 - Python
 - C#
@@ -47,10 +49,10 @@ Aqui estão alguns dos meus repositórios relacionados às atividades escolares:
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-- 💼 [Meu LinkedIn](www.linkedin.com/in/vinícius-amaral-vilela-b57549362)
+- 💼 [My LinkedIn](www.linkedin.com/in/vinícius-amaral-vilela-b57549362)
 
 ---
 
-> _“Sempre curioso e com vontade de aprender mais a cada dia.”_
+> _“Always curious and eager to learn more every day.”_
