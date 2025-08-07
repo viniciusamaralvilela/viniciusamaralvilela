@@ -1,5 +1,5 @@
 [Inglês](README.md)
-# 👋 Olá, eu sou [Vinícius]
+# 👋 Olá, eu sou Vinícius
 
 🎓 Estudante apaixonado por **Software e Computação**, ainda iniciante mas cada vez mais cativado pela área.
 
