@@ -1,4 +1,4 @@
-[Portuguese](README.md)
+[Portuguese](README_pt.md)
 # 👋 Hello, I am [Vinícius]
 
 🎓 A student passionate about **Software and Computing**, still a beginner but increasingly captivated by the field.
